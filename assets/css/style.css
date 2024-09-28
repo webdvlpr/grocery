@@ -611,6 +611,7 @@ footer p a :hover {
         flex-direction: column;
         row-gap: 4rem;
         padding: 4rem;
+        align-items: center;
     }
 
     #upArrow {
